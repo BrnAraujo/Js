@@ -1,0 +1,10 @@
+@charset "UTF-8";
+*html {font-family: kufam 14px;}
+
+body {  margin: 0;
+        background-color: rgb(99, 75, 202);
+        color: rgb(116, 113, 113);}
+
+h1 {    text-align: center;
+        color:rgb(245, 245, 245);
+        text-shadow: rgb(19, 19, 18) 1.5px 1.5px;}
