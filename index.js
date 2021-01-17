@@ -12,7 +12,8 @@ function clicar () {
     a.style.background = `black`}
 
 function entrar () {
-    a.innerText = `entrou`}
+    a.innerText = `entrou`
+    a.style.background = `red`}
 
 function sair () {
     a.innerText = `saiu`} 
